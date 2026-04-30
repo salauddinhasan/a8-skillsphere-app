@@ -114,6 +114,7 @@ const RegisterPage = () => {
           </Button>
         </div>
       </Form>
+      
     </div>
   );
 };
